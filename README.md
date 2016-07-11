@@ -33,7 +33,7 @@ Learning rate was kept constant across models at 5e âˆ’ 4. Images were loade
 
 ##(Schematic representation below)
 
-<img src="https://raw.githubusercontent.com/harimohanjha1/DR_Detection/master/images/process_flow_diag.jpg" width="800">
+<img src="https://raw.githubusercontent.com/harimohanjha1/Deep_Symptoms/master/images/process_flow_diag.jpg" width="800">
 
 <hr>
 
